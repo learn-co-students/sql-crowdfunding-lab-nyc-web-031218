@@ -1,0 +1,70 @@
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+ ("Buy More Stuff", "Shopping", 300, 031218, 031218),
+ ("Buy More Stuff", "Shopping", 300, 031218, 031218),
+ ("Buy More Stuff", "Shopping", 300, 031218, 031218),
+ ("Buy More Stuff", "Shopping", 300, 031218, 031218),
+ ("Buy More Stuff", "Shopping", 300, 031218, 031218),
+ ("Buy More Stuff", "Shopping", 300, 031218, 031218),
+ ("Buy More Stuff", "Shopping", 300, 031218, 031218),
+ ("Buy More Stuff", "Shopping", 300, 031218, 031218),
+ ("Buy More Stuff", "Shopping", 300, 031218, 031218),
+ ("Buy More Stuff", "Shopping", 300, 031218, 031218)
+;
+
+
+INSERT INTO users (name, age) VALUES
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60),
+ ("JD", 60)
+;
+
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1),
+ (100, 1, 1)
+;
